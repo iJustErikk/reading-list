@@ -1,7 +1,12 @@
 # reading-list
 stuff I want to read/replicate (or have- need to come back to put these in there, at least the classics)
 
-## to read
+## reading (include goal)
+- BULLETPROOF SSL AND TLS: building general knowledge about TLS/certs before deep diving. wanna finish by 2/19
+
+## to read (include goal)
+- decently broad and deep networking book
+- list things to deep dive into for networking/certs
 
 ### concurrency
 [Is Parallel Programming Hard, And, If So, What Can You Do About It?
