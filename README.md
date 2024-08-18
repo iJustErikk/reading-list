@@ -2,11 +2,14 @@
 stuff I want to read/replicate (or have- need to come back to put these in there, at least the classics)
 
 ## reading (include goal)
-- BULLETPROOF SSL AND TLS: building general knowledge about TLS/certs before deep diving. wanna finish by 2/19
 
-## to read (include goal)
-- decently broad and deep networking book
-- list things to deep dive into for networking/certs
+## books to read
+
+## papers to read
+
+- [scaling laws with board games](https://arxiv.org/pdf/2104.03113)
+- [mcts llms](https://arxiv.org/pdf/2305.14078)
+
 
 ### concurrency
 [Is Parallel Programming Hard, And, If So, What Can You Do About It?
